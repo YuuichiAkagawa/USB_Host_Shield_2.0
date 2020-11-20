@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['maxepperinterface',['maxEpPerInterface',['../class_h_i_d.html#acd92969682030cd5cac310dd7746c7c7',1,'HID']]],
-  ['maxhidinterfaces',['maxHidInterfaces',['../class_h_i_d.html#afe5186f46ac7b580bb3dc289e3f237b2',1,'HID']]],
+  ['maxepperinterface',['maxEpPerInterface',['../class_u_s_b_h_i_d.html#a7cd9a3226f72cc965dcac27c3bd25ed9',1,'USBHID']]],
+  ['maxhidinterfaces',['maxHidInterfaces',['../class_u_s_b_h_i_d.html#a6a47b8c02d90076852e079acfb62ae46',1,'USBHID']]],
   ['maxpktsize',['maxPktSize',['../struct_ep_info.html#aa2ca775b63736df4008e88da7dd4dddb',1,'EpInfo']]],
   ['mchngr',['MCHNGR',['../struct_inquiry_response.html#ac4236ae883e8948bc73e91b6ad091ba8',1,'InquiryResponse']]],
   ['medinstrtitles0',['medInstrTitles0',['../class_report_desc_parser_base.html#a3d8d0fa8512f718e8b574e4d9e8a775f',1,'ReportDescParserBase']]],
@@ -9,6 +9,7 @@ var searchData=
   ['medinstrtitles2',['medInstrTitles2',['../class_report_desc_parser_base.html#aee85293ab9a08f5e348fe339f7e4e7e9',1,'ReportDescParserBase']]],
   ['medinstrtitles3',['medInstrTitles3',['../class_report_desc_parser_base.html#a986eebc1d44ff6c7b2779c584640bfa8',1,'ReportDescParserBase']]],
   ['medinstrtitles4',['medInstrTitles4',['../class_report_desc_parser_base.html#abf57eb862e09967eb05a234f81b4a9d4',1,'ReportDescParserBase']]],
+  ['menu',['menu',['../union_xbox_one_s_buttons.html#a7340abde1fb7867c35c9ee7fbbc0b537',1,'XboxOneSButtons']]],
   ['mic',['mic',['../struct_p_s4_status.html#a1d752bdc67f08a09fbb8feb6a0db5568',1,'PS4Status']]],
   ['misc',['Misc',['../struct_c_d_b12.html#af59803ec81c006b7bdefc03d80579d07',1,'CDB12::Misc()'],['../struct_c_d_b___l_b_a32__16.html#a50e5250b635b8782b1a82f4f137feefb',1,'CDB_LBA32_16::Misc()'],['../struct_c_d_b___l_b_a64__16.html#a5f3b9efa508e9e3d79a70414ea5c74ff',1,'CDB_LBA64_16::Misc()']]],
   ['misc2',['Misc2',['../struct_c_d_b10.html#a26b2c33b7867c33d19e77c6d873d7924',1,'CDB10::Misc2()'],['../struct_c_d_b___l_b_a32__16.html#a3809ba2a5399bd407b50b04b8c83cb9f',1,'CDB_LBA32_16::Misc2()'],['../struct_c_d_b___l_b_a64__16.html#a9a71353cc6ecb838dfd560a3c985e4a6',1,'CDB_LBA64_16::Misc2()']]],
